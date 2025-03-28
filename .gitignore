@@ -1,0 +1,15 @@
+# Python
+
+# IDE Files
+
+# OS-specific
+Desktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+.DS_Store
+System Volume Information/
+*.tmp
+
+# Logs and temp files
+*.log
+*.bak
