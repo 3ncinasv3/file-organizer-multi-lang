@@ -1,9 +1,14 @@
 # Python
 __pycache__/
+*.pyc
 
 # Virtual Environments
+venv/
+python/venv/
 
 # IDE Files
+.vscode/
+.idea/
 
 # OS-specific
 Desktop.ini
